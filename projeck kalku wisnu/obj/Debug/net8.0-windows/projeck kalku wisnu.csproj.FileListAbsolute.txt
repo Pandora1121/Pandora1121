@@ -1,0 +1,16 @@
+D:\visula comuniti\projeck kalku wisnu\projeck kalku wisnu\bin\Debug\net8.0-windows\projeck kalku wisnu.exe
+D:\visula comuniti\projeck kalku wisnu\projeck kalku wisnu\bin\Debug\net8.0-windows\projeck kalku wisnu.deps.json
+D:\visula comuniti\projeck kalku wisnu\projeck kalku wisnu\bin\Debug\net8.0-windows\projeck kalku wisnu.runtimeconfig.json
+D:\visula comuniti\projeck kalku wisnu\projeck kalku wisnu\bin\Debug\net8.0-windows\projeck kalku wisnu.dll
+D:\visula comuniti\projeck kalku wisnu\projeck kalku wisnu\bin\Debug\net8.0-windows\projeck kalku wisnu.pdb
+D:\visula comuniti\projeck kalku wisnu\projeck kalku wisnu\obj\Debug\net8.0-windows\projeck_kalku_wisnu.Form1.resources
+D:\visula comuniti\projeck kalku wisnu\projeck kalku wisnu\obj\Debug\net8.0-windows\projeck kalku wisnu.csproj.GenerateResource.cache
+D:\visula comuniti\projeck kalku wisnu\projeck kalku wisnu\obj\Debug\net8.0-windows\projeck kalku wisnu.GeneratedMSBuildEditorConfig.editorconfig
+D:\visula comuniti\projeck kalku wisnu\projeck kalku wisnu\obj\Debug\net8.0-windows\projeck kalku wisnu.AssemblyInfoInputs.cache
+D:\visula comuniti\projeck kalku wisnu\projeck kalku wisnu\obj\Debug\net8.0-windows\projeck kalku wisnu.AssemblyInfo.cs
+D:\visula comuniti\projeck kalku wisnu\projeck kalku wisnu\obj\Debug\net8.0-windows\projeck kalku wisnu.csproj.CoreCompileInputs.cache
+D:\visula comuniti\projeck kalku wisnu\projeck kalku wisnu\obj\Debug\net8.0-windows\projeck kalku wisnu.dll
+D:\visula comuniti\projeck kalku wisnu\projeck kalku wisnu\obj\Debug\net8.0-windows\refint\projeck kalku wisnu.dll
+D:\visula comuniti\projeck kalku wisnu\projeck kalku wisnu\obj\Debug\net8.0-windows\projeck kalku wisnu.pdb
+D:\visula comuniti\projeck kalku wisnu\projeck kalku wisnu\obj\Debug\net8.0-windows\projeck kalku wisnu.genruntimeconfig.cache
+D:\visula comuniti\projeck kalku wisnu\projeck kalku wisnu\obj\Debug\net8.0-windows\ref\projeck kalku wisnu.dll

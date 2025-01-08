@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "projeck kalku wisnu/1.0.0": {
+        "runtime": {
+          "projeck kalku wisnu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projeck kalku wisnu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
