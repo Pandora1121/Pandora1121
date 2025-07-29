@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Development and Backend Development
+Full-stack developer
 
 
 ## 🌐 Socials:
